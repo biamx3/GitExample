@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var superConflito: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         var ola = ImprimirOla();
