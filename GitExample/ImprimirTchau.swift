@@ -11,11 +11,6 @@ import Foundation
 class ImprimirTchau{   
     func imprimir()
     {
-<<<<<<< Updated upstream
-        println("Tchau Ivee <3")
-
-=======
         println("Tchau Giancarlo!!! =P")
->>>>>>> Stashed changes
     }
 }
