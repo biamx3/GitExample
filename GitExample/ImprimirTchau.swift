@@ -11,6 +11,7 @@ import Foundation
 class ImprimirTchau{   
     func imprimir()
     {
-        println("Tchau, Bia!")
+        println("Tchau Ivee <3")
+
     }
 }
